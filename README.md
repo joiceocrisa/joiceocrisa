@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi! 👋
+
+## I'm Joice Ocrisa 😊
+
+![Joice Ocrisa](img/)
 
 <!--
 **joiceocrisa/joiceocrisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Statistics Graduate  
+📊 Interested in Data Analyst & Data Scientist  
+📍 Indonesia
+
+---
+
+### 🔧 Skills
+
+- Python (Pandas, NumPy)
+- SQL
+- Excel
+- Data Visualization (Tableau / Power BI)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [**Joice Ocrisa**](https://www.linkedin.com/in/joice-ocrisa/)
+- Email: ocrisajoice@gmail.com
